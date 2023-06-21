@@ -16,7 +16,7 @@
     font-family: 'Poppins', sans-serif;
   }
   .main{
-     background-image: url(/integrador/assets/ImgAbstractos\ 121.jpg);
+     background-image: url(assets/ImgAbstractos\ 121.jpg);
      /*background:rgb(27, 147, 194);*/
     display: flex;
     flex-direction: column;
@@ -308,16 +308,16 @@ top: -60px;
 }
 
 .productsCard:first-child .productsCardImg {
-    background-image: url(/integrador/assets/ventiluz60x40herrero7900.jpg);
+    background-image: url(assets/ventiluz60x40herrero7900.jpg);
 
 }
 .productsCard:nth-child(2) .productsCardImg { 
-    background-image: url(/integrador/assets/80x40_10500.jpg);
+    background-image: url(assets/80x40_10500.jpg);
 }
-.productsCard:nth-child(3) .productsCardImg {background-image: url(/integrador/assets/80x80_15500.jpg);}
-.productsCard:nth-child(4) .productsCardImg {background-image:url(/integrador/assets/100x90_18000.jpg) ;}
-.productsCard:nth-child(5) .productsCardImg {background-image:url(/integrador/assets/100x100_19000.jpg) ;}
-.productsCard:nth-child(6) .productsCardImg {background-image:url(/integrador/assets/120x200_36000.jpg) ;}
+.productsCard:nth-child(3) .productsCardImg {background-image: url(assets/80x80_15500.jpg);}
+.productsCard:nth-child(4) .productsCardImg {background-image:url(assets/100x90_18000.jpg) ;}
+.productsCard:nth-child(5) .productsCardImg {background-image:url(assets/100x100_19000.jpg) ;}
+.productsCard:nth-child(6) .productsCardImg {background-image:url(assets/120x200_36000.jpg) ;}
  
 html {
     scroll-behavior: smooth;
