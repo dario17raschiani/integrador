@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-body { background-image: url(./ImgAbstractos\ 121.jpg)}
+body { background-image: url(/integrador/assets/ImgAbstractos\ 121.jpg)}
 
 .btnContainer {
   margin-right: 100px;
